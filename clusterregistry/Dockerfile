@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/clusterregistry:latest
+FROM gcr.io/crreleases/clusterregistry:latest
 MAINTAINER junxu
